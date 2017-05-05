@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>贵州水系流域.kml</name>
+	<StyleMap id="IconStyle000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0004</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="IconStyle0010">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0013</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0012</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle00111">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0012">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00112">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00118">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0018">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle0017">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0014</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle00111</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="IconStyle00119">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle00114</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle0000">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec179d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0019">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle00117">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00118</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle00113</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle00113">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle00116">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0011</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0018</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="IconStyle00115">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0015</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0016</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="IconStyle00000">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle002</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle0016">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0015">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0013">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0001">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec179d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle0002">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle0001</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0003</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle00">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0003">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec179d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle001">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="IconStyle00110">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#IconStyle00112</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#IconStyle0019</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="IconStyle0004">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec179d0_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ff0000ff</color>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<ListStyle>
+		</ListStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0014">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle0011">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle00114">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle002">
+		<IconStyle>
+			<scale>0.25</scale>
+			<Icon>
+				<href>Layer0_Symbol_ec19980_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<color>ffffff00</color>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer0">
+		<name>贵州水系流域</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_00001">
+			<name>长           江           流           域</name>
+			<styleUrl>#IconStyle000</styleUrl>
+			<Point>
+				<coordinates>107.045374951,27.35972698700005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00000">
+			<name>珠           江           流           域</name>
+			<styleUrl>#IconStyle0002</styleUrl>
+			<Point>
+				<coordinates>106.4804656550001,25.71095617500004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>乌  江  水  系</name>
+			<styleUrl>#IconStyle00110</styleUrl>
+			<Point>
+				<coordinates>107.2560660470001,27.47300308100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00000">
+			<name>赤  水  河  綦  江  水  系</name>
+			<styleUrl>#IconStyle0017</styleUrl>
+			<Point>
+				<coordinates>106.2572307390001,28.43578194300005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00002">
+			<name>沅  江  水  系</name>
+			<styleUrl>#IconStyle0010</styleUrl>
+			<Point>
+				<coordinates>108.0744106730001,26.73840199100005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00003">
+			<name>北  盘  江  水  系</name>
+			<styleUrl>#IconStyle00117</styleUrl>
+			<Point>
+				<coordinates>105.2212219350001,25.96642306100006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00004">
+			<name>南  盘  江  水  系</name>
+			<styleUrl>#IconStyle00116</styleUrl>
+			<Point>
+				<coordinates>104.9759870810001,24.91950602000003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00005">
+			<name>红  水  河  水  系</name>
+			<styleUrl>#IconStyle00119</styleUrl>
+			<Point>
+				<coordinates>106.8173481690001,25.78008245300003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>柳  江  水  系</name>
+			<styleUrl>#IconStyle00115</styleUrl>
+			<Point>
+				<coordinates>108.2800818900001,25.88399566400005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00007">
+			<name>牛 栏 江 横 江 水 系</name>
+			<styleUrl>#IconStyle00000</styleUrl>
+			<Point>
+				<coordinates>104.171596987,27.09246700500006,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

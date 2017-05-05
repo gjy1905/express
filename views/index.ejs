@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+
+<html>
+<head> 
+  <meta charset="utf-8"> 
+  <title>new World!</title>  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+  <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+  <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+  <script type="text/javascript" src="/Cesium/method/index.js"></script>
+</head>
+<body>
+  <div class="container" style="width: 80%; margin-top: 70px;">
+  <div class="row clearfix">
+    <div class="col-md-12 column">
+      <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="/">首页</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav">
+            <li>
+               <a href="/vr">虚拟现实</a>
+            </li>
+            <li>
+               <a id="sanwei" href="#">三维</a>
+            </li>
+            <li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown">博客<strong class="caret"></strong></a>
+              <ul class="dropdown-menu">
+                <li>
+                   <a href="/ablog">我的博客</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                   <a href="http://blog.sina.com.cn/">新浪博客</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                   <a href="#">其他</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <form class="navbar-form navbar-left" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" />
+            </div> <button type="submit" class="btn btn-default glyphicon glyphicon-search"></button>
+          </form>
+          <ul class="nav navbar-nav navbar-right" style="margin-right: 10px">
+            <li>
+               <a id="status1" style="display: none;">游客</a>
+               <a id="status2" style="display: none;"><%= username %></a>
+            </li>
+            <li class="dropdown">
+               <a href="#" class="dropdown-toggle" data-toggle="dropdown"">用户中心<strong class="caret"></strong></a>
+              <ul class="dropdown-menu">
+                <li>
+                   <a class="btn" href="/login">登录</a>
+                </li>
+                <li>
+                   <a class="btn" href="/register">注册</a>
+                </li>
+                <li class="divider">
+                </li>
+                <li>
+                   <a class="btn" href="/logout">注销</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </nav>
+
+      <div class="carousel slide" id="carousel-701437" style="margin-top: 15px;">
+        <ol class="carousel-indicators">
+          <li data-slide-to="0" data-target="#carousel-701437">
+          </li>
+          <li data-slide-to="1" data-target="#carousel-701437" class="active">
+          </li>
+          <li data-slide-to="2" data-target="#carousel-701437">
+          </li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="item">
+            <img alt="" src="/images/s2.png" />
+            <div class="carousel-caption">
+              <h4>
+                First Thumbnail label
+              </h4>
+              <p>
+                Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+              </p>
+            </div>
+          </div>
+          <div class="item active">
+            <img alt="" src="/images/s1.png" />
+            <div class="carousel-caption">
+              <h4>
+                Second Thumbnail label
+              </h4>
+              <p>
+                Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+              </p>
+            </div>
+          </div>
+          <div class="item">
+            <img alt="" src="/images/sky.jpg" />
+            <div class="carousel-caption">
+              <h4>
+                Third Thumbnail label
+              </h4>
+              <p>
+                Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+              </p>
+            </div>
+          </div>
+        </div> <a class="left carousel-control" href="#carousel-701437" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a> <a class="right carousel-control" href="#carousel-701437" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+      </div>
+      <div class="row clearfix">
+        <div class="col-md-8 column">
+          <h2>
+            平台搭建
+          </h2>
+          <p>
+             使管理员对系统安装部署了解、掌握。</br>
+             使用户对系统客户端安装部署掌握。</br>
+             确保系统正常安装使用。
+          </p>
+          <p>
+             <a class="btn" href="#">阅读全文 »</a>
+          </p>
+        </div>
+        <div class="col-md-4 column" style="margin-top: 20px;">
+          <div>
+            <div class="panel-heading">
+              <h3 class="panel-title">
+                Java环境安装配置
+              </h3>
+            </div>
+            <div class="panel-body">
+              Tomcat安装配置
+            </div>
+            <div class="panel-body">
+              IIS安装配置
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="progress progress-striped active" style="margin-top: 60px; height: 3px;">
+          <div id="progress-bar" class="progress-bar progress-success" style="width: 0%;"></div>
+          <span id="total"></span>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

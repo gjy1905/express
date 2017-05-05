@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" media="screen">
+    <style type="text/css">
+        .m15{ margin: 15px;}
+        .tc{ text-align: center;font-size: 18px;font-weight: 600;}
+    </style>
+</head>
+<body screen_capture_injected="true">
+    <div class="container">
+        <%- message %>
+        <form class="col-sm-offset-4 col-sm-4 form-horizontal" id="formInfo" role="form" method="post" onsubmit="return false">
+            <fieldset>
+                <legend></legend>
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <p class="tc">注册信息</p>
+                    </div>
+                    <div class="panel-body m15">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-user"></span>
+                                </span>
+                                <input type="text" class="form-control" id="username" name="username" placeholder="请输入用户名" required>
+                            </div>
+                            <label id="unameError" style="color: red;display: none;">*用户名必填</label>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-lock"></span>
+                                </span>
+                                <input type="password" class="form-control" id="password" name="password" placeholder="请输入密码" required>
+                            </div>
+                            <label id="upwdError" style="color: red;display: none;">*两次密码不一致</label>
+                        </div>
+                        <div class="form-group">
+                            <div class="input-group">
+                                <span class="input-group-addon">
+                                    <span class="glyphicon glyphicon-lock"></span>
+                                </span>
+                                <input type="password" class="form-control" id="password1" name="password1" placeholder="请再次输入密码" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary btn-block" id="register1">注册</button>
+                        </div>
+                        <div class="form-group">
+                            <button type="button" class="btn btn-info col-sm-2 col-sm-offset-10" id="login1">登录</button>
+                        </div>
+                    </div>
+                </div>
+            </fieldset>
+        </form>
+    </div>
+
+    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+    <script type="text/javascript">
+    $(function(){ 
+        $("#login1").click(function(){ 
+            location.href = 'login';
+        });
+        $("#register1").click(function(){
+
+            // 直接这样了～～ 也行了～，是数组形式的，然后再 是 object。
+            var formInfo = $('#formInfo').serializeArray();
+            // console.log(formInfo);
+            // console.log(formInfo['username']);       // 错误！
+            // $.each(formInfo, function(k, item) {})   // 遍历，累了些～
+
+            var username = $("#username").val();
+            var password = $("#password").val();
+            var password1 = $("#password1").val();
+            
+            if (username == '') {
+                $('#unameError').css('display', 'block');
+                return false;
+
+            } else if(password == '' || password == '' || password !== password1) { 
+                $("#password").css("border","1px solid red");
+                $("#password1").css("border","1px solid red");
+                // $('#upwdError').css('display', 'block');
+                return false;
+            }
+
+            var data = {"username":username, "password":password};
+            $.ajax({
+                url: '/register',
+                type: 'post',
+                data: data,
+                success: function(data, status) { 
+                    if(status == 'success'){
+                        location.href = 'login';
+                    }
+                },
+                error: function(data, err){ 
+                    location.href = 'register';
+                }
+            }); 
+        });
+    });
+</script>
+</body>
+</head>
+</html>

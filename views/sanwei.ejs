@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+  <!-- Use correct character set. -->
+  <meta charset="utf-8">
+  <!-- Tell IE to use the latest, best version. -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- Make the application on mobile take up the full browser screen and disable user scaling. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+  <title>三维系统</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" crossorigin="anonymous">
+  <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+  <script src="/javascripts/bootstrap.min.js" crossorigin="anonymous"></script>
+
+  <script src="/Cesium/Cesium.js"></script>
+  <style>
+      @import url(/Cesium/Widgets/widgets.css);
+      html, body, #cesiumContainer {
+          width: 100%; height: 100%; margin: 0; padding: 0; overflow: hidden;
+      };
+  </style>
+</head>
+<body>
+  <nav class="navbar navbar-inverse" role="navigation" style="position: absolute; z-index: 1; margin: 0; padding: 0; width: 153px;">
+    <div class="container-fluid">
+    <div class="navbar-header">
+        <a class="navbar-brand" data-toggle="collapse" data-parent="#accordion" href="#gn">　三维系统 <b class="caret"></b></a>
+    </div>
+    <div id="gn" class="panel-collapse collapse in">
+        <ul class="nav navbar-nav">
+            <li><a data-toggle="collapse" data-parent="#accordion" 
+                      href="#demo">
+                 <span class="glyphicon glyphicon-th-list">　项目管理</span> 
+                </a>
+                <ul id="demo" class="panel-collapse collapse in">
+                  <li><a id="yaxi" href="#">鸭溪项目</a></li>
+                  <li><a id="zunyi" href="#">遵义项目</a></li>
+                  <li><a id="changsha" href="#">长沙项目</a></li>
+                </ul>
+            </li> 
+            <li><a data-toggle="collapse" data-parent="#accordion" 
+                      href="#cl">
+                 <span class="glyphicon glyphicon-briefcase" id="measure">　测量分析</span>
+                </a>
+                <!--GIS测量面板-->
+                 <!--  <div id="gisBar">
+                  </div>
+                  <div id="infoGis">
+                  </div>  -->
+                <!--GIS测量结束-->
+                <ul id="cl" class="panel-collapse collapse">
+                  <li><a href="#" id="gisBar">测距离</a></li>
+                  <li><a href="#" id="infoGis">测面积</a></li>
+                  <li><a href="#">测高程</a></li>
+                </ul> 
+            </li>
+            <li><a data-toggle="collapse" data-parent="#accordion" 
+                      href="#bj">
+                 <span class="glyphicon glyphicon-wrench">　编辑工具</span> 
+                </a>
+                <ul id="bj" class="panel-collapse collapse">
+                  <li><a id="biaozhu" href="#">标注</a></li>
+                  <li><a id="music" href="#">音乐</a></li>
+                  <li><a id="video" href="#">视频</a></li>
+                </ul>
+            </li> 
+            <li><a data-toggle="collapse" data-parent="#accordion" 
+                      href="#fx">
+                 <span class="glyphicon glyphicon-plane">　飞行浏览</span>
+                </a>
+            </li>
+            <li><a data-toggle="collapse" data-parent="#accordion" id="water" 
+                      href="#ym">
+                 <span class="glyphicon glyphicon-tint">　水面展示</span>
+                </a>
+            </li> 
+            <li><a data-toggle="collapse" data-parent="#accordion" id="add" 
+                      href="#tc">
+                 <span id="layer" class="glyphicon glyphicon-tasks">　图层控制</span> 
+                </a>
+            </li>
+            <li><a data-toggle="collapse" data-parent="#accordion" id="effect"
+                   href="#tc">
+                    <span  class="glyphicon glyphicon-tasks">　效果展示</span>
+                </a>
+            </li>
+            <li><a href="/">
+                 <span class="glyphicon glyphicon-home">　返回首页</span>
+                </a>
+            </li> 
+        </ul>
+    </div>
+    </div>
+  </nav> 
+
+  <div class="dropdown" id="tuceng">
+    <button type="button" class="btn dropdown-toggle" id="dropdownMenu1" data-toggle="dropdown">图层控制
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="guojie">国界
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="shengjie">水系
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="diming">地名
+            </a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="yx">鸭溪模型
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="shantan">沙滩模型
+            </a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1">
+            <input type="checkbox" checked="checked" id="atmosphere">大气
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1">
+            <input type="checkbox" checked="checked" id="light">光照
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1">
+            <input type="checkbox" checked="checked" id="fog">雾化
+            </a>
+        </li>                
+    </ul>
+  </div>
+
+
+  <div class="dropdown" id="effect2">
+    <button type="button" class="btn dropdown-toggle" id="dropdownMenu2" data-toggle="dropdown">效果展示
+        <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="yinying">阴影
+            </a>
+        </li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="color">颜色
+            </a>
+        </li>
+        <li role="presentation" class="divider"></li>
+        <li role="presentation">
+            <a role="menuitem" tabindex="-1" href="#">
+            <input type="checkbox" checked="checked" id="wait">待添加
+            </a>
+        </li>          
+    </ul>
+  </div>
+
+
+<!--   <table id="table">
+    <tbody>
+    <tr>
+        <td>Brightness</td>
+        <td>
+            <input type="range" min="0" max="3" step="0.02" data-bind="value: brightness, valueUpdate: 'input'">
+            <input type="text" size="5" data-bind="value: brightness">
+        </td>
+    </tr>
+    <tr>
+        <td>Contrast</td>
+        <td>
+            <input type="range" min="0" max="3" step="0.02" data-bind="value: contrast, valueUpdate: 'input'">
+            <input type="text" size="5" data-bind="value: contrast">
+        </td>
+    </tr>
+    <tr>
+        <td>Hue</td>
+        <td>
+            <input type="range" min="0" max="3" step="0.02" data-bind="value: hue, valueUpdate: 'input'">
+            <input type="text" size="5" data-bind="value: hue">
+        </td>
+    </tr>
+    <tr>
+        <td>Saturation</td>
+        <td>
+            <input type="range" min="0" max="3" step="0.02" data-bind="value: saturation, valueUpdate: 'input'">
+            <input type="text" size="5" data-bind="value: saturation">
+        </td>
+    </tr>
+    <tr>
+        <td>Gamma</td>
+        <td>
+            <input type="range" min="0" max="3" step="0.02" data-bind="value: gamma, valueUpdate: 'input'">
+            <input type="text" size="5" data-bind="value: gamma">
+        </td>
+    </tr>
+    </tbody>
+  </table> -->
+
+
+  <video id="vi" src="Cesium/video/1.mov" controls="controls" style="z-index:1; position: fixed; bottom: 5px; width: 400px; right: 5px; display: none;">
+    your browser does not support the video tag
+  </video>
+
+  <audio id="mu" src="http://www.w3school.com.cn/i/horse.ogg" controls="controls" style="z-index:1; position: fixed; bottom: 5px; left: 5px;display: none;">
+    Your browser does not support the audio element.
+  </audio>
+
+
+
+  <div id="cesiumContainer"></div>
+
+  <script src="/Cesium/module/MapLoader/map.js"></script> 
+  <script type="text/javascript" src="/Cesium/method/sanwei.js"></script>
+<!--   <script src="/Cesium/module/GisHelper/DrawHelper.js"></script>
+  <script src="/Cesium/module/GisHelper/gisHelper.js"></script>   -->
+</body>
+</html>

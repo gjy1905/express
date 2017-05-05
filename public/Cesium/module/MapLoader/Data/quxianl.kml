@@ -1,0 +1,10221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>贵州各级区县.kml</name>
+	<StyleMap id="LineStyle20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#LineStyle200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#LineStyle201</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="LineStyle200">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffcccccc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="LineStyle201">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ffcccccc</color>
+		</LineStyle>
+		<PolyStyle>
+			<color>00000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="GroupLayer1">
+		<name>贵州各级区县</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Folder id="FeatureLayer2">
+			<name>遵义市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_20000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>2.606792</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.3297544050001,28.41651750500006,0 107.337826035,28.39351940600005,0 107.3358862850001,28.35880644500003,0 107.3161503390001,28.33574054100006,0 107.3039842160001,28.29766281800005,0 107.3040159030001,28.29453148100004,0 107.3275591610001,28.26349581500006,0 107.3293795490001,28.26038101500006,0 107.363600761,28.23078262200005,0 107.4135068510001,28.23580258800007,0 107.4864076570001,28.26770446900002,0 107.5345400300001,28.24585277400007,0 107.5832108850001,28.19748577700005,0 107.5832220580001,28.19591400100006,0 107.5387802440001,28.15790901100007,0 107.4906679740001,28.14188699500005,0 107.4194469380001,28.12727675800005,0 107.3877178210001,28.09412023400006,0 107.4344773610001,28.03638603400003,0 107.548753801,28.01814231600002,0 107.5809868950001,28.00571942100004,0 107.5651551940001,27.97264915200003,0 107.5155650310001,27.92532220600003,0 107.4821595180001,27.87179533000005,0 107.4216997440001,27.86843975000005,0 107.3420272430001,27.85053484600007,0 107.2481692480001,27.82602372500003,0 107.2033904250001,27.86018622900009,0 107.1712566540001,27.87406302200003,0 107.13595946,27.85175569100005,0 107.0884026080001,27.81518294100005,0 107.046999623,27.86671921200008,0 106.9953656640001,28.03432775900006,0 106.980328054,28.10480236100005,0 106.991339177,28.19913305300003,0 106.994194796,28.36286192500006,0 106.9955593060001,28.41761797800007,0 107.0544118160001,28.46148305100007,0 107.1178403150001,28.51121981700004,0 107.1569386310001,28.52133690800002,0 107.2070737990001,28.50960010200004,0 107.2251710420001,28.48942258000005,0 107.2257540850001,28.43874329400006,0 107.2332450860001,28.40875239700006,0 107.2653788760001,28.40933722800003,0 107.2938926850001,28.42087431300007,0 107.3297544050001,28.41651750500006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.474752</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.2943684960001,27.45963757700002,0 107.2941426230001,27.49771456900004,0 107.3150275370001,27.56218040000005,0 107.357324051,27.62968665800003,0 107.39822115,27.66939994100005,0 107.4570620110001,27.71209657100009,0 107.46473066,27.77202363700008,0 107.4757068490001,27.83348304400005,0 107.4786846210001,27.87005639300003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.637504</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.8186986060001,27.53102503900004,0 107.7722912120001,27.58623170900006,0 107.6843845720001,27.65586566500008,0 107.6545551230001,27.66593895000005,0 107.6168090230001,27.63211565400007,0 107.5842831410001,27.56028546800009,0 107.5843013970001,27.55735994700007,0 107.5651944740001,27.44749277800003,0 107.5110394200001,27.41498334700003,0 107.4584266350001,27.40296634500004,0 107.4009595400001,27.38358869000007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.590557</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.5828222110001,28.19464221200008,0 107.6046220140001,28.16112734400008,0 107.6495382880001,28.14234906100006,0 107.6697908610001,28.09563980000007,0 107.690106363,28.03871350500003,0 107.6770948960001,28.00503450900004,0 107.6458302420001,27.97271893200008,0 107.6458504550001,27.96979593800006,0 107.6416315970001,27.86456531500005,0 107.6416420800001,27.86310449400003,0 107.6425261490001,27.73013369400007,0 107.6544936820001,27.66441780400004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.416295</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.8577225370001,28.27053664600004,0 107.8343466370001,28.30692096100006,0 107.8159753900001,28.33157536300007,0 107.7860816610001,28.33581354900008,0 107.7347416060001,28.32397459900005,0 107.6884573600001,28.30483909200007,0 107.6670138270001,28.28868765400006,0 107.6969156530001,28.27419498900002,0 107.7036370860001,28.25667961700003,0 107.6938324620001,28.23179096500007,0 107.6624968510001,28.20680501300006,0 107.659363506,28.17609351000004,0 107.6479521320001,28.14533870200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.420934</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.6995564320001,28.64210693100006,0 107.6931437870001,28.60702782700002,0 107.6751778410001,28.55290961800006,0 107.6437685720001,28.51768578400004,0 107.6024591300001,28.47069165100004,0 107.6099719390001,28.37006213500007,0 107.617164556,28.30744558600003,0 107.6470946570001,28.29005650300007,0 107.6669816750001,28.28867763900007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.880347</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.4156764240001,28.91360170900003,0 107.4714145550001,28.90167824900004,0 107.5000614030001,28.86674847900002,0 107.5291180290001,28.79364151700003,0 107.516562729,28.72317352500005,0 107.5291286380001,28.66024999400003,0 107.5495385120001,28.61795575100008,0 107.6030048970001,28.60509809000007,0 107.6513600950001,28.61558404700003,0 107.7029035800001,28.64066103700003,0 107.722693393,28.67433414800007,0 107.7456980690001,28.72991168600004,0 107.7537110160001,28.78397925900003,0 107.799888615,28.88912886900005,0 107.837846352,28.96663287600006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20007">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.328930</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.1306463940001,28.51239734200004,0 107.142785927,28.55365172300003,0 107.1802226880001,28.59362158600004,0 107.2517096770001,28.67041996300003,0 107.2874537900001,28.71194664400008,0 107.2780155710001,28.74989253500007,0 107.2542607830001,28.77184937600003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20008">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.860813</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.2098089470001,28.12158246800004,0 106.3220488090001,28.13179812900006,0 106.4201639110001,28.14472967300003,0 106.480773281,28.17676874000006,0 106.51992426,28.22947279000005,0 106.5609816050001,28.26241897200004,0 106.5963079810001,28.25441878100003,0 106.6191479430001,28.22653719500005,0 106.6547225620001,28.20296831900004,0 106.7054225150001,28.23743917100006,0 106.7333244900001,28.28849430400004,0 106.7847469160001,28.40064507100004,0 106.7807018650001,28.46857319200007,0 106.749896177,28.48803721900003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20009">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.646052</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.3612356120001,28.48014170500005,0 106.3554137570001,28.44609747500005,0 106.335046242,28.41750830800004,0 106.2758391420001,28.40671739200008,0 106.2173842160001,28.43975195200005,0 106.1340466900001,28.42728021100004,0 106.1109005450001,28.38029498900005,0 106.0257715100001,28.28991038400005,0 105.9662964120001,28.21668763600007,0 105.9048572360001,28.19728868600004,0 105.8760800280001,28.20385583900003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20010">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.703075</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.9962355970001,28.04482123200006,0 106.920738708,28.05670636900004,0 106.8887898950001,28.05069528900003,0 106.8749357170001,28.01101138200005,0 106.8750341420001,28.00395393500003,0 106.8195640760001,27.96946542400008,0 106.7687759470001,27.94346816000007,0 106.7216448080001,27.99096078700006,0 106.7050886070001,28.02051371600004,0 106.6307074030001,28.04240922400004,0 106.5524454880001,28.04687602000007,0 106.4981313000001,28.06155064400008,0 106.466198256,28.12909531100008,0 106.4528099660001,28.16142270700004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20011">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.703169</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.2834548830001,27.56570179200003,0 106.3399559740001,27.61859928600006,0 106.3957123380001,27.62508562200003,0 106.4482084540001,27.62578227300003,0 106.4904808710001,27.66872676900005,0 106.536947244,27.75128727200007,0 106.5418356870001,27.82202822700003,0 106.5618997190001,27.85628132800002,0 106.6176550110001,27.88239439300003,0 106.6395992280001,27.90815645300006,0 106.6387787720001,27.94514939900006,0 106.6006857020001,28.00303887800004,0 106.576128543,28.04639115600003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_20012">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.883110</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.1237402230001,27.84549175800004,0 107.1528786800001,27.81744286600008,0 107.1545108110001,27.81462621300005,0 107.1551106310001,27.75942996500004,0 107.120511971,27.70535750900007,0 107.0583673080001,27.68782784900003,0 106.9914976090001,27.66883306700004,0 106.9631994320001,27.63464138800003,0 106.9283077300001,27.61876669300006,0 106.8741176020001,27.61682678600005,0 106.8006179130001,27.62303835300003,0 106.7826576360001,27.64967557600005,0 106.8219728890001,27.69112202600007,0 106.8500322800001,27.73949683900003,0 106.828388084,27.80428373900003,0 106.819338659,27.88048323500004,0 106.7871412070001,27.89426375800008,0 106.7687779070001,27.94075527100006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer3">
+			<name>铜仁市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_30000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.572704</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.3839971370001,28.22010895800003,0 108.3247401290001,28.26058205500004,0 108.3092984480001,28.33129828000006,0 108.2901056050001,28.36332439200004,0 108.2250291720001,28.38522104300006,0 108.2077945390001,28.40034851200005,0 108.2020433160001,28.48094652700007,0 108.186538092,28.55838832000006,0 108.1578811530001,28.57670971500005,0 108.096727817,28.59323327500005,0 108.054384295,28.59675790000006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.584532</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.9154974510001,28.01129906100005,0 107.9458927840001,28.03828397900003,0 107.995514164,28.06364946000008,0 108.0451466440001,28.08226129800005,0 108.0774930100001,28.11590378600005,0 108.109623367,28.16128990100003,0 108.1325576640001,28.15292886300006,0 108.157328583,28.15128628300005,0 108.2009945390001,28.17485465300007,0 108.216245465,28.17318951000004,0 108.2182562840001,28.15303644700003,0 108.2108139710001,28.11443215200006,0 108.2108958060001,28.07585461500003,0 108.2318616760001,28.05072236400002,0 108.2965076610001,28.04406785600003,0 108.3136066060001,28.05916770800008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>2.325494</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.54959454,28.29278057200003,0 108.6068559700001,28.29634462600006,0 108.627816678,28.27621391100007,0 108.633470178,28.24929710000004,0 108.6161597860001,28.20384081700007,0 108.600763709,28.14669009700003,0 108.6159694120001,28.12654652300006,0 108.6426691380001,28.13824720400004,0 108.6770120290001,28.15998325100003,0 108.7151539590001,28.17832850000008,0 108.756961307,28.16471326800007,0 108.758774192,28.14454451700004,0 108.737644485,28.10762293500005,0 108.7239910260001,28.05720662400006,0 108.7330863930001,27.98002488300006,0 108.7177819650001,27.95660583200004,0 108.6645630960001,27.91653352800006,0 108.5735143490001,27.89832899400005,0 108.5318382720001,27.89168319100003,0 108.524216332,27.85324089300008,0 108.5278886850001,27.78628366700008,0 108.5750462470001,27.70550309400005,0 108.5749932860001,27.67694368900004,0 108.5522147250001,27.64341099000006,0 108.4840246320001,27.59490394800002,0 108.4177786660001,27.56639621400007,0 108.3932085910001,27.60162996600008,0 108.3820060260001,27.66054304500005,0 108.4180408080001,27.68749040700004,0 108.4559426360001,27.71439805300003,0 108.478661312,27.73949852900006,0 108.4541748130001,27.79145712600007,0 108.4408652270001,27.82982059000005,0 108.3856561000001,27.84471312400007,0 108.3437440120001,27.86141263400003,0 108.336225288,27.89836254200003,0 108.342030407,27.94367382400003,0 108.3305762920001,27.99902864000006,0 108.3133680290001,28.05777615900007,0 108.3095285570001,28.07792680300003,0 108.3303136010001,28.13341951200005,0 108.3857002240001,28.22051892600008,0 108.4181415620001,28.26067394700004,0 108.4772036740001,28.33471931400004,0 108.5058126270001,28.35334759400007,0 108.5267829780001,28.34159892200006,0 108.526751861,28.31628176800007,0 108.54959454,28.29278057200003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.604135</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.3958978100001,27.66971465200004,0 108.3704632170001,27.67974618400007,0 108.2841683290001,27.69982869800003,0 108.2334434400001,27.69602386200006,0 108.191278761,27.66848359800002,0 108.163101392,27.66719744400007,0 108.133643857,27.65091582000002,0 108.1227243660001,27.60099347900007,0 108.08354438,27.55604547900003,0 108.0261206810001,27.53351683900007,0 107.9936165110001,27.53714491100004,0 107.9648726290001,27.57317111700007,0 107.944577065,27.61178773600005,0 107.918987277,27.62794823900003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.130178</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.5922688320001,27.52146979400004,0 108.581165974,27.57744878100004,0 108.5717336170001,27.61846922500007,0 108.5532927640001,27.64340988600003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.046278</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.587944695,28.29551243300006,0 108.602196409,28.31697108400005,0 108.612648424,28.33462668000004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.673399</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.340995369,27.81602910500004,0 109.246733664,27.86686783600004,0 109.2058878990001,27.87151946700004,0 109.1161376480001,27.86021159700005,0 109.0410903640001,27.85638846500007,0 109.0014542980001,27.91333537100007,0 108.9398186300001,27.95222066400005,0 108.8472917450001,27.97645287600005,0 108.7695268940001,27.96228424200007,0 108.7283933610001,27.97350040700007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30007">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.582107</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.8412605300001,27.48846572300005,0 108.8680685180001,27.55036887600005,0 108.8707458320001,27.58361318400006,0 108.8924391680001,27.62176022800003,0 108.9239116990001,27.62497696800006,0 108.928625357,27.58457617600004,0 108.9429849520001,27.57589224400005,0 108.964837801,27.60782158000006,0 108.9952248880001,27.65465576000003,0 108.9700324550001,27.69091563800004,0 108.9423662760001,27.73477826700002,0 108.9570982560001,27.76470208200004,0 109.0106100560001,27.82441988600004,0 109.0422944790001,27.85530830800008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30008">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.241692</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.1513761320001,27.44328394300004,0 109.1378685460001,27.48000828100004,0 109.1130658120001,27.51678967200007,0 109.083075594,27.52361110500004,0 109.0516139260001,27.49823538500004,0 109.0503457690001,27.49602394300007,0 109.0212905510001,27.45281827900004,0 108.99488038,27.43403697200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_30009">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.321209</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.4045472190001,27.55058875500004,0 109.3747593290001,27.56958832800007,0 109.305566125,27.57008538400004,0 109.2197678870001,27.56957177500004,0 109.1456421110001,27.55230249400006,0 109.1019372250001,27.51928860800007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer4">
+			<name>毕节市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_40000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.530092</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.1383254830001,26.79188895500005,0 106.0722079390001,26.77339984800005,0 106.01002908,26.75496717900006,0 105.9669338090001,26.75951228300005,0 105.9099039400001,26.77602025800007,0 105.883340091,26.82786700500003,0 105.8725003930001,26.87473888200003,0 105.846340459,26.90563773700006,0 105.8116348360001,26.96785478000004,0 105.818271113,27.02034757600006,0 105.801485541,27.06892771100007,0 105.796569225,27.11422504900003,0 105.8175839940001,27.13903642800005,0 105.899139904,27.17538726700008,0 105.9810461500001,27.19773897700003,0 106.0314325560001,27.22826959900004,0 106.0866474580001,27.22052376300007,0 106.139657717,27.22844107000003,0 106.156853137,27.25672129600002,0 106.195362818,27.30105677300003,0 106.2580755150001,27.30716571800008,0 106.3466056970001,27.30671639800005,0 106.400163025,27.29005420700003,0 106.4085252460001,27.25516712800004,0 106.3936552420001,27.20426226900003,0 106.3751944650001,27.13933724700007,0 106.377733548,27.11140602400008,0 106.4074251790001,27.09783713300004,0 106.4386470700001,27.11225297300007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.546274</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.8339029190001,27.58362145600006,0 105.8516436860001,27.57223132300004,0 105.8764215090001,27.53759819900006,0 105.8798386520001,27.47931971700007,0 105.8847761820001,27.45223653500005,0 105.9153209040001,27.45083459800003,0 105.9218972090001,27.44900956800007,0 105.962879731,27.47106466700006,0 105.9932542190001,27.47934827200004,0 106.0111568940001,27.45639369600008,0 106.0470997890001,27.40474206000005,0 106.1077738500001,27.31675859000006,0 106.1528561820001,27.24783187700007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.577217</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							104.8793024730001,27.29347855100008,0 104.9022963960001,27.24960758700007,0 104.928040632,27.19417864100008,0 104.9715953990001,27.12180922700003,0 105.0581701410001,27.05426698200006,0 105.1037331310001,27.05141368000005,0 105.1558309860001,27.05459868600008,0 105.216149494,27.07539030000004,0 105.268088343,27.08242037100007,0 105.3160289100001,27.07386650600006,0 105.3571635530001,27.07474540500004,0 105.3827846990001,27.08876885500007,0 105.3922337010001,27.14101465400006,0 105.4255350610001,27.19576135100004,0 105.535833455,27.30237170800007,0 105.5607887770001,27.34730800700004,0 105.5815051860001,27.39025964800004,0 105.6621310030001,27.49072752300003,0 105.76388303,27.54926166000007,0 105.840009717,27.58390634500006,0 105.8854313880001,27.62180487800003,0 105.9417043110001,27.67557207600004,0 106.0202290750001,27.74175822900003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.640389</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							104.2485408220001,27.29592245800006,0 104.2824258480001,27.26787861400004,0 104.3092738020001,27.24932215100006,0 104.3305353850001,27.20165265700007,0 104.3576707660001,27.12132614200004,0 104.3548440820001,27.08459164600004,0 104.3581757320001,27.05576215500003,0 104.371828463,27.04073745800002,0 104.4136175670001,27.03040144500005,0 104.4486135830001,27.02175626200005,0 104.4607705120001,26.98549459600002,0 104.4877751880001,26.95736325800004,0 104.5182552420001,26.95243863100006,0 104.5679013960001,26.95573467700007,0 104.6024109920001,26.95664047300005,0 104.614360634,26.92227324500004,0 104.6177408350001,26.88970345000007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.171666</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.034921722,26.90185777300007,0 105.0360708150001,26.93281979600005,0 105.0222240350001,26.95955863700004,0 105.0148457450001,26.98646425700002,0 105.029402739,27.00424744800006,0 105.0608436560001,27.03601835000006,0 105.0668993040001,27.04973365400008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.931986</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.3646300900001,26.48842748300007,0 105.4320283650001,26.54993904200006,0 105.5103450080001,26.60929778800005,0 105.6122649210001,26.67510833200004,0 105.641215425,26.72206580700004,0 105.6507364950001,26.78386323300003,0 105.612915758,26.83519732600007,0 105.5535703240001,26.87459316900004,0 105.494989994,26.87727231600007,0 105.4419999310001,26.91291183500005,0 105.3871235070001,26.93874453800004,0 105.317052974,26.96807173800005,0 105.295840845,27.02941558100002,0 105.29458959,27.07383880100008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_40006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.279777</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.8437596090001,26.90917340900006,0 105.793625917,26.91405734300004,0 105.697579235,26.92964135700004,0 105.6717418110001,26.91946586300003,0 105.6659807730001,26.88647613300003,0 105.640639326,26.85312844100002,0 105.619439496,26.83339677400005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer5">
+			<name>贵阳市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_50000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.752110</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.457651501,27.14842056200007,0 106.4799462940001,27.09340654300007,0 106.5135560270001,27.03154839000007,0 106.5773854840001,26.98632653500005,0 106.6911871830001,26.95866781400002,0 106.7991044310001,26.99161980100007,0 106.8628915670001,27.06745410000008,0 106.9010714240001,27.18649084600003,0 106.9345305310001,27.27011685300005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_50001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.681207</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.484084974,26.39839100600005,0 106.4883539200001,26.43305374600004,0 106.5005531370001,26.47502407100006,0 106.524112292,26.51136985000005,0 106.520137628,26.55739333800005,0 106.5193566670001,26.60197883700005,0 106.546023926,26.64261340400003,0 106.543747786,26.68146781800004,0 106.5429716290001,26.72901024100003,0 106.568099262,26.77112515300007,0 106.5597859570001,26.78543201600007,0 106.5306145770001,26.79082304000008,0 106.4902701290001,26.78884939600005,0 106.465794175,26.80293813000003,0 106.4540165820001,26.82873606400005,0 106.4745760550001,26.85353554200003,0 106.467841665,26.86644644700004,0 106.4402985990001,26.86609937100008,0 106.4090125320001,26.88882466700005,0 106.3907461510001,26.91026389800004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_50002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.418627</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.9276519670001,26.95281067100007,0 106.9098623450001,26.94680234300006,0 106.8581575580001,26.93316502200003,0 106.7908612880001,26.88624068100006,0 106.7432696600001,26.82369003800005,0 106.7046098690001,26.81745166400003,0 106.6659429260001,26.81267556900008,0 106.6114624480001,26.78608024300007,0 106.5664607320001,26.77254547500007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_50003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.383567</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.0653948180001,26.77808380500006,0 107.0455913750001,26.82261709200003,0 107.0140453560001,26.90315379700007,0 106.9797487340001,26.93170429400004,0 106.9489232300001,26.93425808100005,0 106.9259917490001,26.95567644100004,0 106.906122339,26.98572598300007,0 106.8540639380001,26.99803922900003,0 106.8023014270001,26.99454334200004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer6">
+			<name>安顺市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_60000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.497323</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.3946753290001,26.25152089200003,0 106.3809461180001,26.26158278100007,0 106.3775005590001,26.28018189500006,0 106.3448917870001,26.30306939300004,0 106.32001153,26.29709956700003,0 106.315882759,26.29517094300007,0 106.29760365,26.27062999800006,0 106.2935324380001,26.26590491700006,0 106.2769105630001,26.26472804400004,0 106.2441464110001,26.29221562700008,0 106.2171684670001,26.28807553900003,0 106.1804868880001,26.30150085700007,0 106.149619047,26.33738620900004,0 106.1411746460001,26.38775952900005,0 106.1170257970001,26.39578862300004,0 106.070207914,26.39405840700005,0 106.0460685830001,26.40390861100008,0 106.0346978200001,26.43381910000005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_60001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.958927</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.2628799610001,26.01082199100006,0 106.2599058520001,26.00331727300005,0 106.2457767060001,25.98442383900004,0 106.2375676650001,25.98055440300004,0 106.2025322150001,25.96605120900006,0 106.1911611910001,25.96126137700003,0 106.1623335680001,25.95237259300006,0 106.1316243630001,25.98178540100003,0 106.0917287030001,26.00629784500006,0 106.0388452400001,26.00452569500004,0 105.9944060220001,25.99761387200005,0 105.9684389970001,26.00073537600002,0 105.950541194,26.01242731700006,0 105.8852960550001,26.00176996600004,0 105.845035179,26.03174014000007,0 105.8389363490001,26.07555349900002,0 105.8299363620001,26.11742842500007,0 105.821833993,26.15363349200004,0 105.8062941850001,26.19438896200006,0 105.820162086,26.22263931400005,0 105.8464733370001,26.25391605500005,0 105.8969948970001,26.32109338900006,0 105.9061324960001,26.33330965900007,0 105.9467432130001,26.37899621700007,0 105.977031691,26.42316200000005,0 106.0070719130001,26.43576525500004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_60002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.702231</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.7626640340001,25.53251439800005,0 105.7864542290001,25.55312129100003,0 105.8053587110001,25.59678312800003,0 105.7849093240001,25.65026947200005,0 105.7770545690001,25.69361270200005,0 105.7759817910001,25.72909816500004,0 105.8058599630001,25.74561982500006,0 105.850663093,25.76634008300005,0 105.85884837,25.78245902800006,0 105.8423586420001,25.81013278400008,0 105.7636727140001,25.84703348800008,0 105.7258253290001,25.87737674400006,0 105.701636276,25.93132032300002,0 105.683037793,25.98697563000007,0 105.6501985910001,26.04179455900004,0 105.621600851,26.06274216200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_60003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.443503</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.967613789,25.59592849500007,0 105.9614359440001,25.71244826400005,0 105.9589654720001,25.82678676800003,0 105.983179604,25.87948445400008,0 106.045378918,25.96786395800007,0 106.0730630450001,26.00508393200005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_60004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.157017</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.8270529340001,26.13196022800003,0 105.751125432,26.12548537800006,0 105.6709701620001,26.13577951000008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer7">
+			<name>六盘水市</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_70000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.550816</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							104.9885403180001,26.07630730000005,0 104.9389681060001,26.06098737500003,0 104.8818072190001,26.08657596800003,0 104.8308080410001,26.09185297600004,0 104.740112793,26.07617208100004,0 104.7029639020001,26.08013547500008,0 104.6672215230001,26.16069930000003,0 104.6434437900001,26.27284226300003,0 104.6216645500001,26.32100540700003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_70001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.454090</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.2631703700001,26.52816254900006,0 105.2458017260001,26.47977730400005,0 105.2622016000001,26.44347603000006,0 105.250717771,26.40977570700005,0 105.2722799050001,26.36549362000005,0 105.2724244280001,26.36343574500006,0 105.277597525,26.35545792900007,0 105.285225423,26.31248422400006,0 105.190061626,26.22232024600004,0 105.130414386,26.15269565400007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_70002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.311754</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							104.7611695470001,26.77498652800006,0 104.7858937830001,26.77005573600007,0 104.7929424850001,26.76842144300002,0 104.8647053910001,26.76656204300008,0 104.8918340770001,26.74339700100006,0 104.8968893890001,26.73750133700003,0 104.9007105220001,26.68603344000007,0 104.9083768940001,26.67614776100004,0 104.953926466,26.65399933000003,0 104.9947581390001,26.63356232000007,0 105.0258639990001,26.58777039800003,0 105.0523301950001,26.54174379000006,0 105.059971154,26.53185516000008,0 105.0958531760001,26.48037436000005,0 105.1005767400001,26.47859667500006,0 105.1788968690001,26.44606849200005,0 105.1200264390001,26.43028060400008,0 105.08150685,26.45482040200005,0 105.0310855390001,26.48482894900008,0 104.9820592920001,26.49235734200006,0 104.8923533880001,26.48719462300005,0 104.799607785,26.52905794700007,0 104.770537425,26.57890237900006,0 104.8263941060001,26.60090798800007,0 104.842536377,26.63084629500003,0 104.8405059070001,26.65761193100008,0 104.81316244,26.71387812500007,0 104.7763788300001,26.74263802600007,0 104.7611695470001,26.77498652800006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer8">
+			<name>黔西南布依族苗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_80000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.714112</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.180723018,24.90835989600004,0 106.1081168900001,24.91162523900005,0 106.074248411,24.93281041700004,0 106.0811946470001,24.98069534100006,0 106.0652394250001,24.99580455500006,0 105.9564428590001,25.05841777700005,0 105.8967933790001,25.13428590700005,0 105.9053276940001,25.19566882800007,0 105.8701315870001,25.23895718700004,0 105.8561297530001,25.30141403000005,0 105.8703509970001,25.35179564400005,0 105.9217507670001,25.40636536700004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.684470</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.1046203920001,24.94402397400006,0 105.0887793540001,25.02927718700005,0 105.0726628020001,25.08268611900007,0 105.1411777990001,25.13396613600003,0 105.1809077680001,25.20610666600004,0 105.1878383680001,25.24932311400005,0 105.1182786850001,25.28366091800007,0 105.0203424620001,25.29594382300007,0 104.9401600930001,25.30246890900003,0 104.8984407990001,25.36302913300006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.164609</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.403620571,25.82235960500004,0 105.3832035190001,25.79176890800005,0 105.3419074500001,25.73766223000007,0 105.342060814,25.73542282600005,0 105.3428275630001,25.72422486900008,0 105.3186537910001,25.60350842800006,0 105.3059149810001,25.57122924100003,0 105.268123943,25.57587004500005,0 105.2188194290001,25.60236453200002,0 105.1317128950001,25.56571383700003,0 105.0759840870001,25.57822945700008,0 105.0527268870001,25.66012826000008,0 105.0852087820001,25.72535374700004,0 105.1333655890001,25.78261327900003,0 105.1152552190001,25.85857537500004,0 105.0450979080001,25.96690877800006,0 105.071275293,26.05644788600006,0 105.1270409460001,26.15074019500003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.657704</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.5981744100001,25.68568070900005,0 105.5883727930001,25.64446373600003,0 105.5864631260001,25.63529803900008,0 105.5640411570001,25.55713724700008,0 105.523595475,25.48948305200003,0 105.4614333880001,25.45001228300004,0 105.4617374040001,25.44553111900007,0 105.4029812910001,25.35678881000007,0 105.3497868470001,25.33354367700002,0 105.2541999090001,25.31238663800008,0 105.160491806,25.26428808000003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.310380</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.134067106,25.56672658400004,0 105.081044197,25.54110259700008,0 105.0292913630001,25.49756464100005,0 104.9711975400001,25.43790789900004,0 104.9421132020001,25.39118611700008,0 104.9038599640001,25.36644916700004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.565366</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.910268634,25.11800379900006,0 105.8560335940001,25.14676893400008,0 105.7791096170001,25.17662643200004,0 105.723679701,25.25941630700004,0 105.6479371600001,25.30944749800005,0 105.547133886,25.36251690600005,0 105.4351413620001,25.39683441800003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_80006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.603103</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							105.6451518540001,25.31380265300004,0 105.6495663190001,25.28475264600007,0 105.6501585400001,25.27577290000005,0 105.668064288,25.19337301600007,0 105.671288723,25.18227942000004,0 105.6936074270001,25.10906125000003,0 105.6442632100001,25.06366640000005,0 105.6662418980001,25.03321225500002,0 105.6734641230001,24.99972891400006,0 105.6549408700001,24.97848102100005,0 105.5934362740001,24.96839557100003,0 105.5025426350001,24.95206711300006,0 105.4401043720001,24.91916084000009,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer9">
+			<name>黔南布依族苗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_90000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.390471</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.6139111620001,26.86000401700005,0 107.5624447720001,26.88634723600006,0 107.4216412530001,26.95414442800006,0 107.3348139890001,26.98952992400007,0 107.2527396470001,26.98006626900008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.320779</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.3954910260001,26.54150270600007,0 107.391454949,26.57390850900003,0 107.3671942670001,26.72371634100006,0 107.3264771780001,26.76274268400005,0 107.2539211070001,26.79635535600005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.983972</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.8764369560001,26.19828197200008,0 106.8978726020001,26.18091280900006,0 106.9483400860001,26.17298521500004,0 106.9846185000001,26.17459730900004,0 107.0315503880001,26.18888482600005,0 107.0916581280001,26.20986321300006,0 107.115122205,26.23736179000002,0 107.115760885,26.26791157500003,0 107.0713116360001,26.29437553400004,0 107.069377848,26.33086904700008,0 107.09790495,26.34842130600003,0 107.1170600780001,26.37165810300007,0 107.1105777160001,26.40604760300005,0 107.1394265930001,26.41757624400004,0 107.1612813410001,26.47371185900005,0 107.1413232070001,26.50549238000008,0 107.095935748,26.54428014100006,0 107.124587218,26.60269818000007,0 107.157880043,26.61851008600007,0 107.1616495410001,26.63296316600003,0 107.1844446730001,26.67481767300006,0 107.2173536170001,26.69877956600004,0 107.2292490770001,26.73201033200007,0 107.2482102960001,26.76147146300008,0 107.25374915,26.79965120800006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.690649</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.9840530910001,26.17241906900006,0 106.9973236320001,26.14187295900008,0 107.0364288200001,26.10004242500003,0 107.1021336140001,26.03646638500004,0 107.1446796800001,26.01962776200003,0 107.1946829270001,26.03634924500005,0 107.267896502,26.09557829400006,0 107.3274179790001,26.19563906900004,0 107.3678492380001,26.30735554800003,0 107.382233232,26.38683173900006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.072075</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.288911973,25.58736871700006,0 108.2524056000001,25.57775333000006,0 108.2077683110001,25.54491948300006,0 108.2032507910001,25.54268003100003,0 108.149555224,25.50540089700007,0 108.0782066050001,25.50279061800006,0 108.0005198380001,25.53929610300003,0 107.9047946790001,25.56472941600003,0 107.8450166200001,25.60834957000003,0 107.8314052920001,25.65154713400005,0 107.8209143810001,25.72595448300007,0 107.8038915960001,25.79181103000008,0 107.7547525180001,25.85227123700003,0 107.7532070720001,25.93125619200004,0 107.7551869050001,25.98544333100006,0 107.7548665430001,26.03951177200003,0 107.7583724450001,26.11025341300007,0 107.776756059,26.16074479200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.737755</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.1955123290001,26.03628138300007,0 107.2398257460001,26.00620563800004,0 107.3209178880001,25.95212852600002,0 107.420073314,25.86885429500006,0 107.4622014920001,25.83226024500004,0 107.5159013050001,25.84726548100008,0 107.5235128840001,25.88380032300006,0 107.5510046100001,25.94883218300004,0 107.5820743850001,25.99057002500008,0 107.6329630980001,26.01831397800004,0 107.7232825440001,26.02216084300005,0 107.7595116460001,26.01300522200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.971750</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.4733512610001,25.65287652800004,0 106.4938083750001,25.70716411200004,0 106.5151603460001,25.70606513000007,0 106.537638234,25.72632907300005,0 106.5748214940001,25.69822836700007,0 106.5963199870001,25.69497437500007,0 106.6037726490001,25.72943328000002,0 106.6518550450001,25.71675255000002,0 106.710684331,25.68112798800007,0 106.7340194280001,25.68648227700004,0 106.8414377680001,25.71064054700003,0 106.8994995250001,25.73037021500005,0 106.9237967510001,25.76416723600005,0 106.8997920890001,25.81424887100008,0 106.92166739,25.88982786700007,0 106.9899659470001,25.98242547800004,0 107.0632287510001,25.98575345500007,0 107.1077379970001,25.99622147400004,0 107.1300322240001,26.02275180900006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90007">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.590129</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							106.496538721,25.70288676400003,0 106.4745235930001,25.75514834500007,0 106.4617777050001,25.85050012600004,0 106.4765203590001,25.92158249100005,0 106.5252807590001,25.93885826800005,0 106.5771875010001,25.98601566000008,0 106.5838664170001,26.03326206700007,0 106.593943219,26.10210576700007,0 106.618413144,26.17146865000007,0 106.6248904070001,26.22298231500002,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90008">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.485174</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.0712326400001,25.53957933300006,0 107.0396256880001,25.55523071900007,0 106.9859426290001,25.62964471400005,0 106.9412932420001,25.62335864600004,0 106.8837986520001,25.58650653100006,0 106.8215351360001,25.55153488700006,0 106.7453187340001,25.60573656100007,0 106.7200154440001,25.68145017500007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90009">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.443271</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.3226396630001,25.44561926900008,0 107.362962521,25.46756360100005,0 107.3859674340001,25.52450970300004,0 107.398440055,25.58409346600007,0 107.4072420240001,25.64816073800006,0 107.4484132820001,25.68563254300005,0 107.472445635,25.72088168400006,0 107.4731570550001,25.77383956100005,0 107.4701139850001,25.83286757200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_90010">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.428376</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.666436833,25.31201133400003,0 107.7122061470001,25.32625789300005,0 107.7288419970001,25.37363270600002,0 107.6903893000001,25.45615845600003,0 107.7139729790001,25.50219745300007,0 107.7548333730001,25.58313094200003,0 107.8065522040001,25.61941956900006,0 107.838918392,25.62849296400003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder id="FeatureLayer10">
+			<name>黔东南苗族侗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<Placemark id="ID_100000">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.549546</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.3278440090001,27.36406975000006,0 108.4176449060001,27.34188735600003,0 108.4653774540001,27.30248934400004,0 108.5062748540001,27.25156171600003,0 108.6447271090001,27.21620592100004,0 108.7706681780001,27.17914417300005,0 108.8243107590001,27.19399812700004,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100001">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.482705</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.9777314080001,27.06524196100003,0 109.0631024140001,27.02312078100005,0 109.1163734690001,26.98941450300004,0 109.1190464110001,26.95039268500005,0 109.0971759980001,26.94256342500006,0 108.9343969070001,26.89205910500004,0 108.7172857560001,26.81353982600007,0 108.66511603,26.81716478900006,0 108.590636186,26.84275271900003,0 108.5042661920001,26.87414890200006,0 108.4207026060001,26.92495483900007,0 108.3225233840001,26.93943017800007,0 108.2546175570001,26.95452093800003,0 108.2583843240001,27.00412665600004,0 108.2716087360001,27.08240489400004,0 108.2658822710001,27.18410682200005,0 108.2354325940001,27.26122090800004,0 108.1858537650001,27.29007757800002,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100002">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.368222</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.7562590110001,26.79809371200003,0 107.8273079590001,26.79140457500006,0 107.9083181360001,26.76032640200003,0 107.9583872490001,26.76993098500003,0 108.1125537440001,26.79690806800005,0 108.1496697460001,26.79308257800005,0 108.173350037,26.81692373900006,0 108.2262126000001,26.86470174000004,0 108.302307188,26.88460874300006,0 108.3400747300001,26.87203868100005,0 108.3969783080001,26.83987104500005,0 108.4497530090001,26.82094178400007,0 108.5077095270001,26.81373818900005,0 108.5468412800001,26.81447741000005,0 108.5552302440001,26.85457651000007,0 108.5362574450001,26.94577436100008,0 108.525556324,27.00062763900007,0 108.6138485970001,27.06414400300002,0 108.6656643790001,27.09179924000006,0 108.7185101650001,27.06918888300004,0 108.7395830960001,27.04620674500006,0 108.7677345580001,27.03998013900008,0 108.789864746,27.05196273000007,0 108.8082209030001,27.06554316100005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100003">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.507936</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.2091081080001,26.84934473600004,0 108.1953109840001,26.90239771400007,0 108.1570115530001,26.94389798000003,0 108.0765627120001,26.94396544200004,0 108.0368810160001,26.95964484700005,0 108.0045217740001,27.00494511700003,0 107.9433465400001,27.04590215700006,0 107.9361680490001,27.07887069000003,0 107.955814015,27.11791646900008,0 107.9502377510001,27.15842524300008,0 107.928748307,27.17287885000008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100004">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.647887</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.148832208,26.79384123600005,0 108.1599854400001,26.73615690700007,0 108.1510823790001,26.65177436800008,0 108.1557281330001,26.64586359100002,0 108.1984084120001,26.56074608600005,0 108.2330862480001,26.51759936900005,0 108.2876753240001,26.47880086800006,0 108.3134643960001,26.43322342400006,0 108.3150009510001,26.37513272900003,0 108.41119316,26.37870069200005,0 108.4610622180001,26.35940970100006,0 108.570286067,26.38543489400007,0 108.6951560190001,26.41178074600003,0 108.7741686960001,26.46554977700004,0 108.8455003400001,26.48489766100006,0 108.8876083540001,26.50565189400004,0 108.9071669690001,26.53400981900006,0 108.914887058,26.59218511700004,0 108.8813919730001,26.69380319100003,0 108.9205144900001,26.75259359000006,0 108.9438817710001,26.81714913600007,0 109.0126681610001,26.86037773600003,0 109.0927618580001,26.90587111200006,0 109.1189568200001,26.94837558500007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100005">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.522657</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.3843795640001,26.71496614700004,0 109.3154532930001,26.77704558800008,0 109.2604148390001,26.79034953200005,0 109.174610639,26.73008329900006,0 109.0679074480001,26.71680664900003,0 108.9971010260001,26.74149668700005,0 108.9461586470001,26.81066647300003,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100006">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.558430</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.3725342960001,26.45342044700004,0 109.3203819230001,26.45268934500007,0 109.2713561430001,26.42871570600006,0 109.2167868100001,26.42562358100003,0 109.148510764,26.45254148000004,0 109.1096655680001,26.43559171500004,0 109.0753405150001,26.45595759600008,0 108.9845249760001,26.44285233500006,0 108.9089484320001,26.44613169600007,0 108.8458131620001,26.48464267300005,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100007">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.622367</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.3150177380001,26.42570570900006,0 108.3926360240001,26.42277164500007,0 108.459387522,26.44745773000005,0 108.4996643850001,26.50176350200007,0 108.4956452590001,26.56440988200006,0 108.4401011580001,26.60058875300007,0 108.4440916890001,26.64502314700007,0 108.492523491,26.68563402700005,0 108.4963950310001,26.73710572600004,0 108.4427630470001,26.79440326200006,0 108.4210207240001,26.82669731300007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100008">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.470987</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							107.7737133030001,26.29300673600005,0 107.8535685860001,26.40201927900006,0 107.9156650610001,26.49895611400007,0 107.9150890340001,26.51758410200006,0 107.8151725040001,26.55707017400005,0 107.7282231220001,26.59449586300008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100009">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.390340</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.2113910670001,26.54002037000004,0 108.1838805560001,26.49999442700005,0 108.1247124600001,26.47557158500007,0 108.0109596330001,26.44985121700006,0 107.933007876,26.44344932600006,0 107.8586259860001,26.40679558300008,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100010">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.451138</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.1561477010001,26.07592391800006,0 108.1700656710001,26.13901634100006,0 108.1173459740001,26.17503510400007,0 108.1026294120001,26.23979625500004,0 108.0513605500001,26.31077023900008,0 107.9655254400001,26.39753221300003,0 107.9640811200001,26.44417634100006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100011">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.370287</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.2447675820001,26.03124479900004,0 108.2926770770001,26.09046443600005,0 108.2858557900001,26.16471702200005,0 108.322403862,26.25614905000003,0 108.336878094,26.29830924700008,0 108.3169457000001,26.37217435200006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100012">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>1.179583</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							109.2319224890001,25.72933231200005,0 109.2507915350001,25.81388136700008,0 109.196615588,25.94815032100007,0 109.1181953600001,25.98888719100006,0 109.0341716790001,25.91544695400006,0 108.9740268880001,25.94708532600004,0 108.8938071570001,25.94575149100007,0 108.8024538100001,25.97909426300004,0 108.7826991490001,26.05791987900005,0 108.7535340460001,26.09231606400005,0 108.6668992720001,26.13268465900006,0 108.6519616730001,26.21164802600003,0 108.6657769880001,26.29337873300005,0 108.6896859020001,26.38693937100004,0 108.6762461790001,26.40308270100007,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="ID_100013">
+				<name>未命名路径</name>
+				<Snippet maxLines="0"></Snippet>
+				<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>未命名路径</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>.807225</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+				<styleUrl>#LineStyle20</styleUrl>
+				<MultiGeometry>
+					<LineString><tessellate>1</tessellate>
+						<coordinates>
+							108.2817378090001,25.58893596900003,0 108.3666286910001,25.60468975300006,0 108.4177311170001,25.62901804100006,0 108.478471836,25.68141315100007,0 108.4894925690001,25.75373070300003,0 108.5015112960001,25.78888000900003,0 108.578544348,25.81129787200007,0 108.6372820430001,25.84266317400005,0 108.6726901020001,25.87823939700007,0 108.6427772340001,25.94285250000007,0 108.6341745930001,25.97992462800005,0 108.6978400730001,26.02765824600004,0 108.7828461570001,26.05014443400006,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>

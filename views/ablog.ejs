@@ -1,0 +1,55 @@
+<%- include header %>
+  <div style = "width:1200px">
+     <div class="list-group" style ="width:300px; float:left; margin-top: 70px;">
+        <div class="list-group-item">
+         <span>个人资料</span>
+        </div>
+        <div class="list-group-item">
+          上传头像
+        </div>
+        <div class="list-group-item">
+          <p>访问量：</p>
+          <p>积分：</p>
+        </div>
+          <p><a href="/bblog">写博客</a></p>
+     </div>
+<% if (blogs.length>0) { %>
+<% blogs.forEach(function (blog) { %>
+
+           <div class="list-group" style ="width:800px; float:right; margin-top: 70px;">
+            <div class="list-group-item">
+               <span>标题：<%= blog.title %></span>
+            </div>
+            <div class="list-group-item">
+               <span><%= blog.content %></span>
+               <p><a id="delete" href="/delete/:id">删除</a></p>
+            </div>
+            <div class="list-group-item">
+               <span>作者：<%= blog.author %></span>
+            </div>
+           </div>
+        
+<% }) %>
+<% } %>
+
+  </div>
+<%- include footer %>
+
+
+
+<!-- <%- include header %>
+<% if (blogs.length>0) { %>
+<% blogs.forEach(function (blog) { %>
+<div style="width: 800px; margin:0 auto; padding-top: 70px;">
+  <p><h2><a href="#"><%= blog.title %></a></h2></p>
+  <p class="info">
+    作者：<a href="#"><%= blog.author %></a> | 
+    日期：<%= blog.creattime %>
+  </p>
+  <p><%= blog.content %></p> 
+  <p><a id="delete" href="/delete">删除</a></p>
+</div>
+<% }) %>
+<% } %>
+  <p><a href="/bblog">写博客</a></p>
+<%- include footer %> -->

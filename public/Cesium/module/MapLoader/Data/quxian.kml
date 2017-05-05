@@ -1,0 +1,10370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>贵州各级区县.kml</name>
+	<open>1</open>
+	<Document>
+		<name>遵义市</name>
+		<Placemark>
+			<name>赤水市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>赤水市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>赤水市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.849452325,28.4575691060001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>习水县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>习水县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>习水县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.28843641,28.2777821280001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>正安县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>正安县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>正安县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.403452859,28.5021186550001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>务川县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>务川县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>务川县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.812008965,28.5240633440001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>道真县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>道真县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>道真县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.593569105,28.879083435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>桐梓县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>桐梓县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>桐梓县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.746329701,28.1535805350001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>绥阳县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>绥阳县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>绥阳县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.208608002,28.0115000760001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>凤冈县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>凤冈县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>凤冈县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.719877743,27.8968620740001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>遵义县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>遵义县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>遵义县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.851746554,27.4870767460001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>仁怀市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>仁怀市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>10</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>仁怀市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.2599908,27.690082864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>湄潭县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>湄潭县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>湄潭县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.551491345,27.6190149650001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>余庆县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>余庆县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>余庆县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/遵义市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer2_Symbol_11059bd8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.613003264,27.3153052750001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>铜仁市</name>
+		<Placemark>
+			<name>德江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>德江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>德江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.013341333,28.26477544100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>沿河县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>沿河县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>沿河县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.404038524,28.4756942620001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>江口县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>江口县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>江口县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.727075238,27.74638773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>印江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>印江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>16</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>印江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.450759196,28.0003022700001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>松桃县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>松桃县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>17</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>松桃县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>109.068872263,28.114795089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>石阡县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>石阡县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>18</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>石阡县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.212438486,27.4803914330001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>思南县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>思南县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>19</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>思南县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.159113139,27.8609558140001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>玉屏县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>玉屏县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>20</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>玉屏县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.977230968,27.299054191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>万山特区</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>万山特区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>21</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>万山特区</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/铜仁市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer3_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>109.223162367,27.5186886020001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>毕节市</name>
+		<Placemark>
+			<name>金沙县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>金沙县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>22</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>金沙县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.189065509,27.3790835120001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>织金县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>织金县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>23</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>织金县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.787643207,26.6645486990001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黔西县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黔西县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>24</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黔西县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.048419479,27.004090918,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>纳雍县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>纳雍县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>25</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>纳雍县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.296331644,26.7548275570001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>大方县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>大方县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>26</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>大方县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.711309948,27.069059477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>赫章县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>赫章县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>27</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>赫章县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>104.613002563,27.093884841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>咸宁县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>咸宁县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>28</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>咸宁县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/毕节市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer4_Symbol_110596f8_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>104.239846824,26.8314427110001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>贵阳市</name>
+		<Placemark>
+			<name>息烽县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>息烽县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>29</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>息烽县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer5_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.695905834,27.1101481700001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>开阳县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>开阳县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>30</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>开阳县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer5_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.067783531,27.0253948590001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>修文县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>修文县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>31</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>修文县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer5_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.552023844,26.8829067950001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>清镇市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>清镇市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>32</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>清镇市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/贵阳市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer5_Symbol_11058108_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.431144873,26.655770664,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>安顺市</name>
+		<Placemark>
+			<name>普定县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>普定县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>33</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>普定县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer6_Symbol_11058990_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.701125177,26.3001312330001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>平坝县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>平坝县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>34</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>平坝县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer6_Symbol_11058990_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.232854128,26.3866946270001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>镇宁县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>镇宁县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>35</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>镇宁县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer6_Symbol_11058990_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.775353192,25.949194017,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>关岭县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>关岭县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>36</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>关岭县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer6_Symbol_11058990_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.658936734,25.8082293030001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>紫云县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>紫云县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>37</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>紫云县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer6_Symbol_11058990_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.080320489,25.70997556,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>六盘水市</name>
+		<Placemark>
+			<name>六枝特区</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>六枝特区</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>38</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>六枝特区</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer7_Symbol_11059f80_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.411853641,26.1437296950001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>盘县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>盘县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>39</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>盘县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer7_Symbol_11059f80_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>104.507049061,25.7261743490001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>水城县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>水城县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>40</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>水城县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/六盘水市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer7_Symbol_11059f80_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.09263329,26.5242947730001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>黔西南布依族苗族自治州</name>
+		<Placemark>
+			<name>普安县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>普安县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>41</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>普安县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>104.957044392,25.7922663150001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>晴隆县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>晴隆县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>42</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>晴隆县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.217726505,25.7465500230001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>兴仁县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>兴仁县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>43</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>兴仁县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.165236879,25.416074157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>兴义市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>兴义市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>44</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>兴义市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>104.935144151,25.060256361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>安龙县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>安龙县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>45</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>安龙县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.359515522,25.1112270400001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>册亨县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>册亨县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>46</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>册亨县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.874142414,24.89673713600011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>望谟县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>望谟县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>47</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>望谟县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.107324203,25.1687643940001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>贞丰县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>贞丰县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>48</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>贞丰县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer8_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>105.719847225,25.386739859,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>黔南布依族苗族自治州</name>
+		<Placemark>
+			<name>长顺县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>长顺县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>49</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>长顺县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.420686878,26.0311605260001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>惠水县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>惠水县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>50</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>惠水县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.777895118,26.0396813080001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>罗甸县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>罗甸县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>51</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>罗甸县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.759635801,25.3951811910001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>平塘</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>平塘</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>52</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>平塘</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.280444063,25.7622616360001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>荔波县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>荔波县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>53</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>荔波县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.891946461,25.3810047750001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>独山县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>独山县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>54</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>独山县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.623985707,25.7710130090001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三都县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>三都县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>55</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>三都县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.897618736,25.935002298,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>龙里县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>龙里县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>56</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>龙里县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>106.997410532,26.4482056790001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>贵定县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>贵定县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>57</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>贵定县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.232297236,26.5830639960001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>瓮安县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>瓮安县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>58</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>瓮安县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.478346568,27.0826038270001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>福泉市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>福泉市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>59</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>福泉市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.475220989,26.7671206260001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>都匀市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>都匀市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>60</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>都匀市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer9_Symbol_11059968_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.614314569,26.1763856790001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+	<Document>
+		<name>黔东南苗族侗族自治州</name>
+		<Placemark>
+			<name>凯里市</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>凯里市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>61</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>凯里市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.97692644,26.5916024370001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黄平县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黄平县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>62</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黄平县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.858533889,26.921516895,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>施秉县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>施秉县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>63</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>施秉县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.09933542,27.0627783000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>镇远县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>镇远县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>64</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>镇远县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.460092094,27.130219395,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>岑巩县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>岑巩县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>65</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>岑巩县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.631749901,27.322029979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>天柱县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>天柱县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>66</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>天柱县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>109.289083889,26.9236148320001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>剑河县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>剑河县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>67</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>剑河县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.618690028,26.6329837100001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>三穗县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>三穗县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>68</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>三穗县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.752254986,26.95157354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>麻江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>麻江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>麻江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.613001036,26.4788299900001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>丹寨县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>丹寨县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>70</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>丹寨县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>107.968466791,26.2176845390001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>雷山县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>雷山县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>71</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>雷山县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.126455967,26.3596289990001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>榕江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>榕江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>72</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>榕江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.526126828,25.9836968660001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>从江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>从江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>73</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>从江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.762771091,25.7557856060001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>黎平县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黎平县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>74</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黎平县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>109.211045411,26.1821570120001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>锦屏县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>锦屏县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>75</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>锦屏县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>109.109833159,26.607496917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>台江县</name>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>台江县</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>76</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>台江县</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<Style>
+				<IconStyle>
+					<color>ffffffff</color>
+					<scale>0.125</scale>
+					<Icon>
+						<href>Layer10_Symbol_110584b0_0.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>ffffffff</color>
+					<scale>0.833333</scale>
+				</LabelStyle>
+			</Style>
+			<Point>
+				<coordinates>108.364671363,26.676667976,0</coordinates>
+			</Point>
+		</Placemark>
+	</Document>
+</Document>
+</kml>

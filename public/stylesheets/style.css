@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#tuceng {
+	position: fixed;
+	z-index: 1;
+	right: 5px;
+	margin-top: 50px;
+	display: none;
+}
+
+#effect2 {
+	position: fixed;
+	z-index: 1;
+	right: 5px;
+	margin-top: 90px;
+	display: none;
+}
+
+#table {
+	position: fixed;
+	z-index: 1;
+	right: 5px;
+	margin-top: 90px;
+	width: 400px;
+	background-color: yellow;
+}

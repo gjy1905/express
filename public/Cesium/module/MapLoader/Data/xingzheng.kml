@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>贵州行政规划.kml</name>
+	<Style id="IconStyle30">
+		<IconStyle>
+			<scale>0.1875</scale>
+			<Icon>
+				<href>Layer3_Symbol_11057d60_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Style id="IconStyle20">
+		<IconStyle>
+			<scale>0.1875</scale>
+			<Icon>
+				<href>Layer2_Symbol_11059d10_0.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.833333</scale>
+		</LabelStyle>
+		<PolyStyle>
+			<color>ff000000</color>
+			<outline>0</outline>
+		</PolyStyle>
+	</Style>
+	<Folder id="FeatureLayer3">
+		<name>贵州行政规划</name>
+		<open>1</open>
+		<Snippet maxLines="0"></Snippet>
+		<Placemark id="ID_30000">
+			<name>贵阳市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>贵阳市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>贵阳市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>106.6250376580001,26.64198619800004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30001">
+			<name>毕节市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>毕节市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>毕节市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>105.438374395,27.08216346800003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_20000">
+			<name>安顺市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>安顺市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>安顺市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/区县划分名称/安顺市</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle20</styleUrl>
+			<Point>
+				<coordinates>105.9650597840001,26.20857298300007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30002">
+			<name>遵义市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>遵义市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>遵义市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>106.9790460950001,28.14227382200005,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30003">
+			<name>铜仁市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>铜仁市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>铜仁市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>108.5942485430001,27.91749700100007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30004">
+			<name>黔西南布依族苗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黔西南布依族苗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>105.5528307670001,25.23932808500007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30005">
+			<name>黔东南苗族侗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黔东南苗族侗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>108.5383223140001,26.41590357400003,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30006">
+			<name>黔南布依族苗族自治州</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>黔南布依族苗族自治州</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>107.1136683730001,25.91855905200004,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_30007">
+			<name>六盘水市</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>六盘水市</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>六盘水市</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>贵州省old.kml/贵州省/行政区域划分</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>HasLabel</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>LabelID</td>
+
+<td>1</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle30</styleUrl>
+			<Point>
+				<coordinates>104.9611133620001,26.33624770500006,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
